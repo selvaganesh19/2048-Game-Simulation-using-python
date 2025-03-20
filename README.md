@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your **2048 Game Simulation** project on GitHub:  
-
----
-
 ### **🕹 2048 Game Simulation using Flask**  
 A simple **2048 game** built using **HTML, CSS, JavaScript, and Flask** with **PWA (Progressive Web App) support** for offline play.  
 
